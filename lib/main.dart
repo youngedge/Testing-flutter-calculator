@@ -119,6 +119,7 @@ class _CalculatorHomePageState extends State<CalculatorHomePage> {
                       width: 64,
                       child: Center(
                         child: Text(
+                         
                           _getButtonLabel(index),
                           style: TextStyle(color: Colors.white, fontSize: 24),
                         ),
